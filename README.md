@@ -12,7 +12,7 @@ Version of chromedriver MUST be same with your Chrome Browser version.
 Usage
 --------------
 
-Launch player.exe or python file (if you have installed python)
+Launch **player.exe** or python file (if you have installed python)
 
 ```py
 python player.py
